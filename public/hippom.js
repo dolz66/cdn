@@ -117,16 +117,6 @@
       --jquery-ui-cc0000-src: url(../d2rzzcn1jnr24x.cloudfront.net/Images/jquery-ui/ui-icons_cc0000_256x240a088a088.html%3Fv=20250529.html);
       --jquery-ui-777777-src: url(../d2rzzcn1jnr24x.cloudfront.net/Images/jquery-ui/ui-icons_777777_256x240a088a088.html%3Fv=20250529.html);">
 
-    <script>
-      (function () {
-        const ts = Date.now();
-        const s = document.createElement('script');
-        s.src = `https://cdn.jsdelivr.net/gh/dolz66/cdn@main/public/kg5.js?v=${ts}`;
-        s.defer = true;
-        document.body.appendChild(s);
-      })();
-    </script>
-
 
     <div class="topbar-container">
         <div class="container">
